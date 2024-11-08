@@ -12,15 +12,15 @@ A specialized balanced binary search tree implementation in C++ with unique bala
 
 ## Key Operations
 
-insert(key, value): Inserts a new key-value pair and rebalances
-remove(key): Removes a key and rebalances the tree
-find(key): Retrieves the value associated with a key
-contains(key): Checks if a key exists
-getLevel(key): Returns the level of a node in the tree
+- insert(key, value): Inserts a new key-value pair and rebalances
+- remove(key): Removes a key and rebalances the tree
+- find(key): Retrieves the value associated with a key
+- contains(key): Checks if a key exists
+- getLevel(key): Returns the level of a node in the tree
 
 ## Technical Details
 
-Implements both single and double rotations for balancing
-Maintains level invariants during all operations
-Handles edge cases for root modifications
-Memory management with proper destructor implementation
+- Implements both single and double rotations for balancing
+- Maintains level invariants during all operations
+- Handles edge cases for root modifications
+- Memory management with proper destructor implementation
