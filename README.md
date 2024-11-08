@@ -1,13 +1,14 @@
 # CrumpleTree Data Structure
 
 A specialized balanced binary search tree implementation in C++ with unique balancing properties. This data structure maintains balance through level-based rules and specific rebalancing cases.
-Features
 
-Template-based implementation supporting generic key-value pairs
-Self-balancing operations using level-based rules
-Standard binary search tree operations (insert, remove, find)
-Multiple traversal methods (inOrder, preOrder, postOrder)
-Exception handling for element not found cases
+## Features
+
+- Template-based implementation supporting generic key-value pairs
+- Self-balancing operations using level-based rules
+- Standard binary search tree operations (insert, remove, find)
+- Multiple traversal methods (inOrder, preOrder, postOrder)
+- Exception handling for element not found cases
 
 ## Key Operations
 
