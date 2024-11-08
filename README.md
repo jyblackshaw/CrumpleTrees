@@ -1,6 +1,6 @@
 # CrumpleTree Data Structure
 
-A specialized balanced binary search tree implementation in C++ with self balancing properties. This data structure maintains balance through level-based rules and specific rebalancing cases. Note I did not create this structure, just implemented it.
+A specialized balanced binary search tree implementation in C++ with self balancing properties. This data structure maintains balance through level-based rules and specific rebalancing cases. Note I did not create this structure, just implemented it (see crumple_tree.pdf).
 
 ## Features
 
