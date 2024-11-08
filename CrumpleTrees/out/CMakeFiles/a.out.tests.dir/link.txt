@@ -1,0 +1,1 @@
+/usr/bin/g++ CMakeFiles/a.out.tests.dir/tests/catch_amalgamated.cpp.o CMakeFiles/a.out.tests.dir/tests/crumpletests.cpp.o CMakeFiles/a.out.tests.dir/tests/main.cpp.o -o bin/a.out.tests  -lpthread 

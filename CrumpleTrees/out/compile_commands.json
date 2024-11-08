@@ -1,0 +1,22 @@
+[
+{
+  "directory": "/home/jblacksh/project4/out",
+  "command": "/usr/bin/g++  -I/home/jblacksh/project4/app -Wall -pedantic-errors -Werror -ggdb -std=c++17 -o CMakeFiles/a.out.app.dir/app/main.cpp.o -c /home/jblacksh/project4/app/main.cpp",
+  "file": "/home/jblacksh/project4/app/main.cpp"
+},
+{
+  "directory": "/home/jblacksh/project4/out",
+  "command": "/usr/bin/g++  -I/home/jblacksh/project4/app -I/home/jblacksh/project4/tests -Wall -pedantic-errors -Werror -ggdb -std=c++17 -o CMakeFiles/a.out.tests.dir/tests/catch_amalgamated.cpp.o -c /home/jblacksh/project4/tests/catch_amalgamated.cpp",
+  "file": "/home/jblacksh/project4/tests/catch_amalgamated.cpp"
+},
+{
+  "directory": "/home/jblacksh/project4/out",
+  "command": "/usr/bin/g++  -I/home/jblacksh/project4/app -I/home/jblacksh/project4/tests -Wall -pedantic-errors -Werror -ggdb -std=c++17 -o CMakeFiles/a.out.tests.dir/tests/crumpletests.cpp.o -c /home/jblacksh/project4/tests/crumpletests.cpp",
+  "file": "/home/jblacksh/project4/tests/crumpletests.cpp"
+},
+{
+  "directory": "/home/jblacksh/project4/out",
+  "command": "/usr/bin/g++  -I/home/jblacksh/project4/app -I/home/jblacksh/project4/tests -Wall -pedantic-errors -Werror -ggdb -std=c++17 -o CMakeFiles/a.out.tests.dir/tests/main.cpp.o -c /home/jblacksh/project4/tests/main.cpp",
+  "file": "/home/jblacksh/project4/tests/main.cpp"
+}
+]

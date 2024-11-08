@@ -1,0 +1,4 @@
+/home/jblacksh/project4/out/CMakeFiles/a.out.app.dir
+/home/jblacksh/project4/out/CMakeFiles/a.out.tests.dir
+/home/jblacksh/project4/out/CMakeFiles/edit_cache.dir
+/home/jblacksh/project4/out/CMakeFiles/rebuild_cache.dir
